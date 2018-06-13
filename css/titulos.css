@@ -1,0 +1,24 @@
+h1 {
+    background: black;
+    color: white;
+}
+
+h2 {
+    color: green;
+}
+
+body {
+    background: yellow;
+    background-image: url("avatar.png");
+    background-repeat: no-repeat;
+}
+
+#specialTitle {
+    color: blue;
+    background: white;
+}
+
+.special-format {
+    color: blue;
+    background: white;
+}
